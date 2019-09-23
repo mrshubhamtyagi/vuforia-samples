@@ -1,2 +1,2 @@
 # vuforia-samples
-Vuforia samples 
+Vuforia samples scenes for Android
